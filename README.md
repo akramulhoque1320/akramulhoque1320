@@ -1,54 +1,49 @@
 <h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
+<h3 align="center">💻 Full Stack Developer from Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+Passionate about building scalable, modern, and user-friendly web applications.
+</p>
 
-<h3 align="center">Full Stack Developer | Bangladesh 🇧🇩</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="coding">
+</p>
 
 ## 👨‍💻 About Me
-I am a passionate Full Stack Developer who enjoys building scalable, efficient, and modern web applications.  
-I love working across both frontend and backend technologies and continuously improving my skills by learning new tools and best practices.
 
-## 🚀 Skills
+<p>
+I am a passionate full-stack developer who loves creating scalable, modern, and efficient web applications. I enjoy working with both frontend and backend technologies to build complete solutions. Currently, I am learning <b>Next.js</b>, <b>System Design</b>, and advanced backend architecture to improve my development skills. I enjoy turning ideas into real-world applications and continuously growing as a developer through coding and problem-solving.
+</p>
 
-### Frontend Development
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- TypeScript
-- Tailwind CSS
+## 🛠️ Tech Stack
 
-### Backend Development
-- Node.js (Express.js)
-- PHP (Laravel)
-- Django
-- Java (Spring Boot)
+### 🎨 Frontend
+HTML5 • CSS3 • JavaScript • React.js • TypeScript • Tailwind CSS
 
-### Database
-- MySQL
-- PostgreSQL
+### ⚙️ Backend
+Node.js • Express.js • PHP • Laravel • Django • Java • Spring Boot
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- REST APIs
+### 🗄️ Database
+MySQL • PostgreSQL
 
-## 📚 Currently Learning
-- Next.js
-- System Design
-- Advanced Backend Architecture
-- Spring Boot Deep Dive
+### 🔧 Tools
+Git • GitHub • VS Code • REST APIs
 
 ## 📫 Contact Me
-- Email: akramulhoque1320@gmail.com  
-- Mobile: 01842XXXXXX  
+
+- 📧 Email: akramulhoque1320@gmail.com  
+- 📱 Mobile: 01842XXXXXX  
 
 ## 🌐 Connect With Me
-- LinkedIn: (add your link here)
-- WhatsApp: (add link if needed)
 
-## ⚡ GitHub Stats
-📊 I am actively improving my contributions and building real-world projects.
+<p>
+<a href="#">LinkedIn</a> • <a href="#">WhatsApp</a>
+</p>
 
-## 💡 Fun Fact
-I enjoy turning ideas into real-world applications and solving problems through code.
+## 📊 GitHub Stats
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+📈 Actively building projects & improving contributions.
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
