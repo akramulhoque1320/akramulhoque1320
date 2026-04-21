@@ -11,7 +11,8 @@
 <p align="right">
   <img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation"/>
 </p>
-
+ <!-- LEFT SIDE: ABOUT ME -->
+    <td width="55%" valign="top">
 
 ## 👨‍💻 About Me
 
