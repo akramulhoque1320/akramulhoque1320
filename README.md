@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Clean+Code+%7C+Performance+Focused" />
 </p>
+<!-- Coding Image --> 
+<p align="right"> <img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation"/> </p>
 
 <table>
   <tr>
