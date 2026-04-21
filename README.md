@@ -1,7 +1,15 @@
-<h1 align="centre">Hi 👋, I'm Akramul Hoque</h1>
-<h3 align="centre">Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
+<h3 align="center">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Clean+Code+%7C+Performance+Focused" />
+</p>
+
+<!-- Coding Illustration (modern) -->
+<p align="right">
+  <img width="380" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/developer/developer-original.svg" alt="coding illustration"/>
+</p>
 
 
 
