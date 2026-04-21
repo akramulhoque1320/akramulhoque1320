@@ -4,10 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 👨‍💻 About Me:
-- 💻 Passionate Full Stack Developer  
-- 🚀 I love building scalable & modern web applications  
-- 🔥 Experienced in Frontend & Backend technologies  
-- 🎯 Always learning & improving my skills
+💻 Passionate Full Stack Developer 🚀 I love building scalable and modern web applications. 🔥 I have experience in both frontend and backend technologies. 🎯 I am always learning and continuously improving my skills.
    
 ### 🛠️ Frontend Skills:
 - 🌐 HTML, CSS, JavaScript  
