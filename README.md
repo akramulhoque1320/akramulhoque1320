@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Akramul Hoque</h1>
-<h3 align="left">Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h1 align="centre">Hi 👋, I'm Akramul Hoque</h1>
+<h3 align="centre">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
