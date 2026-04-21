@@ -1,22 +1,26 @@
 <h1 align="left">Hi 👋, I'm Akramul Hoque</h1>
 <h3 align="left">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 ### 👨‍💻 About Me:
 - 💻 Passionate Full Stack Developer  
 - 🚀 I love building scalable & modern web applications  
 - 🔥 Experienced in Frontend & Backend technologies  
-- 🎯 Always learning & improving my skills  
+- 🎯 Always learning & improving my skills
+   
 ### 🛠️ Frontend Skills:
 - 🌐 HTML, CSS, JavaScript  
 - ⚛️ React  
 - 🎨 Tailwind CSS  
-- 🟦 TypeScript  
+- 🟦 TypeScript
+  
 ### ⚙️ Backend Skills:
 - 🐘 PHP (Laravel)  
 - 🟩 Node.js (Express.js)  
 - 🐍 Django  
-- ☕ Java (Spring Boot)  
+- ☕ Java (Spring Boot)
+   
 ### 🗄️ Database:
 - MySQL  
 - PostgreSQL  
