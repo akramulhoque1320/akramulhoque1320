@@ -1,75 +1,64 @@
-<h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
-<h3 align="center">A Passionate Software Engineer from Bangladesh 🇧🇩</h3>
+<h1 align="left">Hi 👋, I'm Akramul Hoque</h1>
+<h3 align="left">Full Stack Developer from Bangladesh</h3>
 
----
-
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ### 👨‍💻 About Me:
-- 💻 I am a passionate Software Engineer with strong experience in modern web technologies.
-- 🚀 I love building scalable web applications and solving real-world problems.
-- 🎯 Currently focusing on React, Laravel & Full Stack Development.
+- 💻 Passionate Software Engineer  
+- 🚀 Love building modern web applications  
+- 🎯 Focused on React, Laravel & Full Stack Development  
+- 🔥 Always learning new technologies  
 
----
+### 🛠️ Skills & Technologies:
+- 💡 Frontend: HTML, CSS, JavaScript, React ,  
+- ⚙️ Backend: PHP, Laravel  
+- 🗄️ Database: MySQL  
+- 🧰 Tools: Git, GitHub, VS Code  
 
-### 🎓 Education:
-- 🎓 B.Sc in Computer Science and Engineering  
-- 📚 Northern University, Bangladesh
+### 📚 Currently Learning:
+- 🔹 Next.js  
+- 🔹 Advanced React  
+- 🔹 API Development  
 
----
-
-### 🛠️ Learning:
-- 🔹 Advanced React & Next.js  
-- 🔹 Backend Development with Laravel  
-- 🔹 API Development & System Design  
-
----
-
-### 💡 Ask me about:
-- React, Laravel, PHP, JavaScript  
-- Web Development & UI/UX  
-
----
+### 💬 Ask me about:
+- React, Laravel, JavaScript, PHP  
 
 ### 📫 Contact Me:
-- 📧 Email: **ekramul1320@gmail.com**  
-- 📱 Mobile: **01824256633**
-
----
+- 📧 Email: ekramul1320@gmail.com  
+- 📱 Mobile: 01824256633  
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="https://facebook.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="30"/></a>
 </p>
-
----
 
 ### 🧰 Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,python,mysql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
----
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight" />
 </p>
-
----
 
 ### 📌 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramulhoque1320&layout=compact&theme=tokyonight" />
 </p>
 
----
-
 ### ⚡ Fun Fact:
-- I love coding and turning ideas into reality 🚀
+- I love coding and turning ideas into real-world projects 🚀  
+
+
+
+### ⭐ Thanks for visiting!
+- Don’t forget to ⭐ my repositories 😄
