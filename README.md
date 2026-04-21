@@ -11,7 +11,7 @@
 <table>
   <tr>
     <!-- LEFT SIDE (About Me) -->
-    <td width="55%" valign="top">
+    <td width="30%" valign="top">
 
 ## 👨‍💻 About Me
 
