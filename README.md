@@ -11,8 +11,10 @@
 <p align="right">
   <img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation"/>
 </p>
- <!-- LEFT SIDE: ABOUT ME -->
+<table>
+  <tr>
     <td width="55%" valign="top">
+
 
 ## 👨‍💻 About Me
 
@@ -120,3 +122,6 @@ I am a passionate Full Stack Developer who loves creating scalable, modern, and 
 
 ### ⭐ Thanks for visiting!
 - Don't forget to ⭐ my repositories 😄
+    </td>
+  </tr>
+</table>
