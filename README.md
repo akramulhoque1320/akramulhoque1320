@@ -1,85 +1,75 @@
-# 👋 Hi, I'm Akramul Hoque
-
-### 💻 Software Engineer | Full-Stack Web Developer
-
-I am a passionate Software Engineer from Bangladesh 🇧🇩 who enjoys building modern, scalable, and user-friendly web applications. I love turning ideas into reality through clean and efficient code.
+<h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
+<h3 align="center">A Passionate Software Engineer from Bangladesh 🇧🇩</h3>
 
 ---
 
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on personal & web projects
-* 🌱 Learning and exploring new technologies every day
-* 💡 Interested in solving real-world problems
-* 🎯 Goal: Become a professional Full-Stack Developer
+### 👨‍💻 About Me:
+- 💻 I am a passionate Software Engineer with strong experience in modern web technologies.
+- 🚀 I love building scalable web applications and solving real-world problems.
+- 🎯 Currently focusing on React, Laravel & Full Stack Development.
 
 ---
 
-## 🚀 Tech Stack
-
-### 🌐 Frontend
-
-HTML • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Bootstrap
-
-### ⚙️ Backend
-
-Node.js • Express.js • Laravel
-
-### 🗄️ Database
-
-MongoDB • MySQL
+### 🎓 Education:
+- 🎓 B.Sc in Computer Science and Engineering  
+- 📚 Northern University, Bangladesh
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced Node.js & Backend Development
-* System Design & Scalable Architecture
-* Next.js (SSR & Performance Optimization)
-* GraphQL
+### 🛠️ Learning:
+- 🔹 Advanced React & Next.js  
+- 🔹 Backend Development with Laravel  
+- 🔹 API Development & System Design  
 
 ---
 
-## 💬 Ask Me About
-
-* JavaScript & Web Development
-* Full-Stack Projects
-* API Development
-* Clean Code Practices
+### 💡 Ask me about:
+- React, Laravel, PHP, JavaScript  
+- Web Development & UI/UX  
 
 ---
 
-## 📫 Contact Me
-
-* 📧 Email: [ekramul1320@gmail.com](mailto:ekramul1320@gmail.com)
-* 📱 Phone: 01824256633
-* 💻 GitHub: https://github.com/akramulhoque1320
+### 📫 Contact Me:
+- 📧 Email: **ekramul1320@gmail.com**  
+- 📱 Mobile: **01824256633**
 
 ---
 
-## ⚡ Fun Fact
-
-Debugging feels like solving a mystery 🕵️‍♂️
-
----
-
-## 📊 GitHub Stats
-
-![Akramul's GitHub stats](https://github-readme-stats.vercel.app/api?username=akramulhoque1320\&show_icons=true\&theme=tokyonight)
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<a href="https://facebook.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
+</p>
 
 ---
 
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramulhoque1320\&layout=compact\&theme=tokyonight)
-
----
-
-## 🤝 Connect with Me
-
-Feel free to connect, collaborate, or just say hello! 😊
+### 🧰 Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,python,mysql,git,github,vscode,figma" />
+</p>
 
 ---
 
-⭐ Don’t forget to check out my repositories and give a star!
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+</p>
 
+---
+
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 📌 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+### ⚡ Fun Fact:
+- I love coding and turning ideas into reality 🚀
