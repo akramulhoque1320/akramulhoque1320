@@ -1,8 +1,8 @@
-# Hi 👋, I'm Akramul Hoque
+<h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Full Stack Developer | Bangladesh 🇧🇩
+<h3 align="center">Full Stack Developer | Bangladesh 🇧🇩</h3>
 
 ## 👨‍💻 About Me
 I am a passionate Full Stack Developer who enjoys building scalable, efficient, and modern web applications.  
