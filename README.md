@@ -1,79 +1,54 @@
-<h1 align="left">Hi 👋, I'm Akramul Hoque</h1>
-<h3 align="left">Full Stack Developer from Bangladesh 🇧🇩</h3>
+# Hi 👋, I'm Akramul Hoque
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me:
-💻 Passionate Full Stack Developer 🚀 I love building scalable and modern web applications. 🔥 I have experience in both frontend and backend technologies. 🎯 I am always learning and continuously improving my skills.
-   
-### 🛠️ Frontend Skills:
-- 🌐 HTML, CSS, JavaScript  
-- ⚛️ React  
-- 🎨 Tailwind CSS  
-- 🟦 TypeScript
-  
-### ⚙️ Backend Skills:
-- 🐘 PHP (Laravel)  
-- 🟩 Node.js (Express.js)  
-- 🐍 Django  
-- ☕ Java (Spring Boot)
-   
-### 🗄️ Database:
-- MySQL  
-- PostgreSQL  
-### 🧰 Tools:
-- Git, GitHub, VS Code  
+### Full Stack Developer | Bangladesh 🇧🇩
 
-### 📚 Currently Learning:
-- 🔹 Next.js  
-- 🔹 Advanced Backend Architecture  
-- 🔹 System Design  
-- 🔹 Spring Boot Deep Dive  
+## 👨‍💻 About Me
+I am a passionate Full Stack Developer who enjoys building scalable, efficient, and modern web applications.  
+I love working across both frontend and backend technologies and continuously improving my skills by learning new tools and best practices.
 
-### 💬 Ask me about:
-- React, Laravel, Node.js, Django, Spring Boot, JavaScript  
+## 🚀 Skills
 
-### 📫 Contact Me:
-- 📧 Email: ekramul1320@gmail.com  
-- 📱 Mobile: 01824256633  
+### Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- TypeScript
+- Tailwind CSS
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-</a>
+### Backend Development
+- Node.js (Express.js)
+- PHP (Laravel)
+- Django
+- Java (Spring Boot)
 
-<a href="https://facebook.com/YOUR-FACEBOOK" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="30"/>
-</a>
+### Database
+- MySQL
+- PostgreSQL
 
-<a href="https://wa.me/8801824256633" target="blank">
-<img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="30"/>
-</a>
-</p>
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- REST APIs
 
-### 🧰 Languages and Tools:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,laravel,nodejs,express,django,java,spring,mysql,postgres,git,github,vscode" />
-</p>
+## 📚 Currently Learning
+- Next.js
+- System Design
+- Advanced Backend Architecture
+- Spring Boot Deep Dive
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+## 📫 Contact Me
+- Email: akramulhoque1320@gmail.com  
+- Mobile: 01842XXXXXX  
 
-### 🔥 GitHub Streak:
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight" />
-</p>
+## 🌐 Connect With Me
+- LinkedIn: (add your link here)
+- WhatsApp: (add link if needed)
 
-### 📌 Most Used Languages:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramulhoque1320&layout=compact&theme=tokyonight" />
-</p>
+## ⚡ GitHub Stats
+📊 I am actively improving my contributions and building real-world projects.
 
-### ⚡ Fun Fact:
-- I love coding while listening to music 🎧  
-- Turning ideas into real-world applications 🚀 
-### ⭐ Thanks for visiting!
-- Don't forget to ⭐ my repositories 😄
+## 💡 Fun Fact
+I enjoy turning ideas into real-world applications and solving problems through code.
+
+⭐ Thanks for visiting my profile!
