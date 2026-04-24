@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
-<h3 align="center">A Passionate Software Engineer from Bangladesh</h3>
+console.log(
+  "A passionate Software Engineer from Bangladesh focused on building scalable, type-safe, and modern web applications."
+);
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -48,8 +50,13 @@ I love building real-world projects and solving real problems 🚀
 
 ### 🌐 Connect with me:
 <p>
-<a href="(https://www.linkedin.com/in/akh1320/)"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="(https://www.facebook.com/ekramulhoqueahnaf.info)"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
+  <a href="https://www.linkedin.com/in/akh1320/">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+
+  <a href="https://www.facebook.com/ekramulhoqueahnaf.info">
+    <img src="https://img.icons8.com/color/48/facebook.png"/>
+  </a>
 </p>
 
 
