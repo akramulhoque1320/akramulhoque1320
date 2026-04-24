@@ -37,7 +37,7 @@ I am a dedicated Software Engineer with a strong focus on full-stack development
 
 ### 📫 How to reach me:
 - 📧 Email: ekramul1320@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/akh1320/
+- 🔗 LinkedIn: https://www.linkedin.com/in/akh1320/
 
 
 
