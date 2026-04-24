@@ -64,14 +64,10 @@ I love building real-world projects and solving real problems 🚀
 ## 🚀 GitHub Profile Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramulhoque1320&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramulhoque1320&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=radical" />
 </p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=radical" />
-</p>
-
 
 
 ## 🏆 GitHub Achievements
