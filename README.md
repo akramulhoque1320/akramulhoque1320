@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rokibul Hasan Rokib</h1>
+<h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
 <h3 align="center">A Passionate Software Engineer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=akramulhoque1320&color=blue)
 
 
 
@@ -11,41 +15,48 @@ I am a passionate and driven Software Engineer with a strong background in full-
 
 
 ### 🚀 Technologies & Tools Used:
-- **Frontend:** React.js, Next.js, Vue.js, TailwindCSS, Bootstrap 5  
-- **Backend:** Node.js, Express.js, Django, Laravel  
-- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
 
 
 
 ### 🌱 Learning:
 - Deepening knowledge in Node.js for scalable applications  
-- Mastering Laravel & Django for backend solutions  
-- Exploring React.js & Next.js for dynamic UI  
-- GraphQL for optimized data fetching  
+- Exploring advanced backend architecture  
+- Improving problem-solving and system design skills  
 
 
 
 ### 💬 Ask me about:
-- Java, JavaScript, PHP, Python  
-- Node.js, React.js, Laravel, Django  
-- Building scalable and secure web apps  
+- JavaScript, Node.js, Express.js  
+- Full Stack Web Development  
+- Building scalable web applications  
 
 
 
 ### 📫 How to reach me:
-- 📧 Email: rokibulhasan01722@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/rokib-hasan-rokib  
+- 📧 Email: your-email@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/your-link  
 
 
 
 ### ⚡ Fun fact:
-I'm not just a coder—I'm also a stand-up comedian 😄
+I love building real-world projects and solving real problems 🚀
+
+
+
+### 🌐 Connect with me:
+<p>
+<a href="#"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
+</p>
 
 
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,python,java,git,github,tailwind,bootstrap,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,git,github,tailwind,bootstrap" />
 </p>
 
 
