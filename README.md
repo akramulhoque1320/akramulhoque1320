@@ -76,5 +76,5 @@ I love building real-world projects and solving real problems 🚀
 
 ## 🏆 GitHub Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akramulhoque1320&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=akramulhoque1320&theme=onedark" /> 
 </p>
