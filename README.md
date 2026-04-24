@@ -10,7 +10,7 @@
 
 
 ### 👨‍💻 About Me:
-I am a passionate and driven Software Engineer with a strong background in full-stack development, specializing in building scalable and secure web applications. With expertise in both frontend and backend technologies, I thrive on solving complex problems and delivering user-centric solutions.
+I am a dedicated Software Engineer with a strong focus on full-stack development and a passion for building efficient, scalable, and secure web applications. I enjoy working across both frontend and backend systems, turning complex problems into simple, user-friendly solutions. I continuously explore modern technologies to improve my skills and deliver high-quality, impactful software products.
 
 
 
@@ -36,8 +36,8 @@ I am a passionate and driven Software Engineer with a strong background in full-
 
 
 ### 📫 How to reach me:
-- 📧 Email: your-email@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email: ekramul1320@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/akh1320/
 
 
 
@@ -48,8 +48,8 @@ I love building real-world projects and solving real problems 🚀
 
 ### 🌐 Connect with me:
 <p>
-<a href="#"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
+<a href="(https://www.linkedin.com/in/akh1320/)"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="(https://www.facebook.com/ekramulhoqueahnaf.info)"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
 </p>
 
 
