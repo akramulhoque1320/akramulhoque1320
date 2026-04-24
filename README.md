@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
-<h3>A passionate Software Engineer from Bangladesh focused on building scalable, type-safe, and modern web applications.</h3> 
+<h3>A passionate Software Engineer from Bangladesh.</h3> 
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
