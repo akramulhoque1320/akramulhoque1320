@@ -18,57 +18,27 @@
 
 ### 👋 About me
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+I'm a **full-stack software engineer** at **Delta Dev** in Dhaka. I build complete web products — database, API, admin panel and a fast, phone-first frontend — with a focus on **speed, security and SEO**.
 
-- 🧑‍💻 **Full-stack software engineer** at **Delta Dev**, based in Dhaka
-- 🏗️ I build complete products: **database → API → admin panel → fast, accessible frontend**
-- ⚡ I care about **speed, security and SEO** — every site I ship is tested on phones first
-- 🌐 Comfortable with **bilingual (Bangla + English)** websites and local SEO
-- 🌱 Currently going deeper into **Node.js architecture and system design**
-- 💬 Ask me about **Laravel, Filament, React, Tailwind CSS**
-
-    </td>
-    <td width="42%" valign="top">
-
-```yaml
-name: Akramul Hoque (Ahnaf)
-role: Full-Stack Software Engineer
-location: Dhaka, Bangladesh
-focus:
-  - Laravel & PHP
-  - React / Next.js
-  - Node.js APIs
-  - Performance & SEO
-motto: "Build real things that
-        solve real problems."
-```
-
-    </td>
-  </tr>
-</table>
+`Laravel` · `PHP` · `React` · `Node.js` · `Tailwind CSS` · `MySQL` · 🌱 learning **system design**
 
 ---
 
-### 🚀 Featured project
+### 🚀 Featured work
 
-<table>
-  <tr>
-    <td>
-      <h4>🧩 <a href="https://wonderkdc.com">Wonder Kids Development Center</a></h4>
-      Bilingual (Bangla / English) website and admin panel for an autism & child development centre in Uttara, Dhaka.
-      <br /><br />
-      <b>Built with:</b> Laravel 12 · Filament 5 · Tailwind CSS 4 · Vite · MySQL
-      <br />
-      <b>Highlights:</b> appointment booking, parent video stories, events, gallery & blog managed from a custom admin ·
-      visitor & country analytics dashboard · Google structured data, FAQ and sitemap for local SEO ·
-      WebP images, page caching and phone-first design for fast loading on any device.
-      <br /><br />
-      <a href="https://wonderkdc.com"><img src="https://img.shields.io/badge/Live%20site-wonderkdc.com-1f75b9?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
-    </td>
-  </tr>
-</table>
+> Live websites I designed, built and launched.
+
+#### 🧩 [Wonder Kids Development Center](https://wonderkdc.com)
+Bilingual (Bangla / English) website and admin panel for an autism & child development centre in Uttara, Dhaka — booking, parent video stories, events, blog, visitor analytics and local SEO.<br />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black" alt="Filament" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <a href="https://wonderkdc.com"><img src="https://img.shields.io/badge/Live-wonderkdc.com-1f75b9?style=flat-square&logo=googlechrome&logoColor=white" alt="wonderkdc.com" /></a>
+
+#### 🎓 [SEBA Centre for Special Needs](https://sebaabacentre.com)
+ABA therapy centre and training platform — therapy services, QABA® / IBAO® approved online courses, student sign-in and course management.<br />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <a href="https://sebaabacentre.com"><img src="https://img.shields.io/badge/Live-sebaabacentre.com-1f75b9?style=flat-square&logo=googlechrome&logoColor=white" alt="sebaabacentre.com" /></a>
+
+#### 🔌 [SmartLife](https://smartlifeorg.com)
+E-commerce store for genuine chargers and cables (UAE) — product catalogue, cart and checkout, wishlist, order tracking and English / Arabic support.<br />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/E--commerce-8e2d80?style=flat-square&logo=shopify&logoColor=white" alt="E-commerce" /> <a href="https://smartlifeorg.com"><img src="https://img.shields.io/badge/Live-smartlifeorg.com-1f75b9?style=flat-square&logo=googlechrome&logoColor=white" alt="smartlifeorg.com" /></a>
 
 ---
 
@@ -101,13 +71,13 @@ motto: "Build real things that
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akramulhoque1320&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f75b9&line=8e2d80&point=f7b733&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/1f75b9/akramulhoque1320" alt="Contribution calendar" width="100%" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akramulhoque1320&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=akramulhoque1320&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=4" alt="GitHub trophies" />
 </p>
 
 ---
