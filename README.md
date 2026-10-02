@@ -20,7 +20,10 @@
 
 I'm a **full-stack software engineer** at **Delta Dev** in Dhaka. I build complete web products — database, API, admin panel and a fast, phone-first frontend — with a focus on **speed, security and SEO**.
 
-`Laravel` · `PHP` · `React` · `Node.js` · `Tailwind CSS` · `MySQL` · 🌱 learning **system design**
+- ⚙️ **Backend:** REST & GraphQL APIs, authentication and role-based permissions, payment gateways, admin panels, queues, caching and database design — Laravel, Node.js, Django
+- 🎨 **Frontend:** responsive, accessible and fast interfaces — React, Next.js, Vue, Tailwind CSS
+- 🚀 **Deployment:** Linux servers, Nginx / Apache, Docker, CI/CD, performance and SEO tuning
+- 🌱 Currently learning **system design and scalable architecture**
 
 ---
 
@@ -50,11 +53,11 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
 </p>
 <p align="center">
   <b>Frontend</b><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,materialui,jquery&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,redux,tailwind,bootstrap,materialui,styledcomponents,threejs,vite,webpack,jquery&perline=7" alt="Frontend" />
 </p>
 <p align="center">
   <b>Backend & APIs</b><br />
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,graphql,prisma&perline=7" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,flask,fastapi,spring,graphql,prisma,sequelize,rabbitmq,kafka&perline=7" alt="Backend" />
 </p>
 <p align="center">
   <b>Databases</b><br />
@@ -70,8 +73,8 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f75b9&icon_color=f7b733" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&custom_title=Ahnaf%27s%20GitHub%20Stats&rank_icon=github&card_width=470&line_height=24&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f75b9&icon_color=f7b733&ring_color=8e2d80&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="200" src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
 </p>
 
 
