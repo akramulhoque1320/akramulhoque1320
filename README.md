@@ -94,5 +94,9 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
 </p>
 
 <p align="center">
+  💼 Open to freelance and full-time work — <a href="mailto:ekramul1320@gmail.com">let’s talk</a> or connect on <a href="https://www.linkedin.com/in/akh1320/">LinkedIn</a>.
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2d80,50:1f75b9,100:0f3a5c&height=110&section=footer" alt="" />
 </p>
