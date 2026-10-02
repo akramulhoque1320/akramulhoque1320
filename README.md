@@ -20,7 +20,10 @@
 
 I'm a **full-stack software engineer** at **Delta Dev** in Dhaka. I build complete web products — database, API, admin panel and a fast, phone-first frontend — with a focus on **speed, security and SEO**.
 
-`Laravel` · `PHP` · `React` · `Node.js` · `Tailwind CSS` · `MySQL` · 🌱 learning **system design**
+- ⚙️ **Backend:** REST & GraphQL APIs, authentication and role-based permissions, payment gateways, admin panels, queues, caching and database design — Laravel, Node.js, Django
+- 🎨 **Frontend:** responsive, accessible and fast interfaces — React, Next.js, Vue, Tailwind CSS
+- 🚀 **Deployment:** Linux servers, Nginx / Apache, Docker, CI/CD, performance and SEO tuning
+- 🌱 Currently learning **system design and scalable architecture**
 
 ---
 
@@ -54,7 +57,7 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
 </p>
 <p align="center">
   <b>Backend & APIs</b><br />
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,graphql,prisma&perline=7" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,flask,fastapi,spring,graphql,prisma,sequelize,rabbitmq,kafka&perline=7" alt="Backend" />
 </p>
 <p align="center">
   <b>Databases</b><br />
