@@ -45,16 +45,24 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
 ### 🛠️ Tech stack
 
 <p align="center">
+  <b>Languages</b><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,java,html,css,sass&perline=8" alt="Languages" />
+</p>
+<p align="center">
   <b>Frontend</b><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,materialui,jquery&perline=8" alt="Frontend" />
 </p>
 <p align="center">
-  <b>Backend & data</b><br />
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,java,mysql,postgres,mongodb&perline=10" alt="Backend and databases" />
+  <b>Backend & APIs</b><br />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,graphql,prisma&perline=7" alt="Backend" />
 </p>
 <p align="center">
-  <b>Tools & deployment</b><br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,postman,vscode,figma&perline=8" alt="Tools" />
+  <b>Databases</b><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite&perline=6" alt="Databases" />
+</p>
+<p align="center">
+  <b>DevOps, cloud & tools</b><br />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,apache,githubactions,vercel,cloudflare,git,github,postman,vscode,figma&perline=12" alt="DevOps and tools" />
 </p>
 
 ---
@@ -63,11 +71,7 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f75b9&icon_color=f7b733" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramulhoque1320&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f75b9" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
 </p>
 
 <p align="center">
