@@ -74,6 +74,9 @@ E-commerce store for genuine chargers and cables (UAE) — product catalogue, ca
   <img height="170" src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
 </p>
 
+
+#### 📅 Contribution calendar
+
 <p align="center">
   <img src="https://ghchart.rshah.org/1f75b9/akramulhoque1320" alt="Contribution calendar" width="100%" />
 </p>
