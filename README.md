@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a5c,50:1f75b9,100:8e2d80&height=190&section=header&text=Akramul%20Hoque%20(Ahnaf)&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=58&descSize=16&animation=fadeIn" alt="Akramul Hoque (Ahnaf)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a5c,50:1f75b9,100:8e2d80&height=200&section=header&text=Akramul%20Hoque%20(Ahnaf)&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=62&descSize=24&animation=fadeIn" alt="Akramul Hoque (Ahnaf)" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=1F75B9&center=true&vCenter=true&width=620&lines=Software+Engineer;I+design%2C+build+and+ship+reliable+software;From+system+design+to+production+deploys" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=1F75B9&center=true&vCenter=true&width=460&lines=Software+Engineer;I+design%2C+build+%26+ship+reliable+software;From+system+design+to+production+deploys" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-I'm a **software engineer** at **Delta Dev** in Dhaka. I design and build software end to end — system design, databases, APIs, frontends, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
+I'm a **software engineer** at **Infinity Vision** in Dhaka. I design and build software end to end — system design, databases, APIs, frontends, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
 
 `TypeScript` · `JavaScript` · `Python` · `PHP` · `Java` · `React` · `Node.js` · `SQL & NoSQL` · `Docker` · 🌱 learning **system design**
 
@@ -52,8 +52,8 @@ I'm a **software engineer** at **Delta Dev** in Dhaka. I design and build softwa
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f75b9&icon_color=f7b733" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akramulhoque1320&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f75b9&icon_color=f7b733" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=akramulhoque1320&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2D80&fire=F7B733&currStreakLabel=1F75B9" alt="Contribution streak" />
 </p>
 
 ### 🏆 Trophies
