@@ -31,7 +31,7 @@ I'm **Akram**, a **software engineer** at **Infinity Vision** in Dhaka with **4+
 | 🧸 [**Wonder Kids Development Center**](https://wonderkdc.com) | Autism and child development centre site: therapy services, assessment booking, events and blog | Next.js · TypeScript · Payload CMS |
 | 🛒 [**SmartLife**](https://smartlifeorg.com) | E-commerce store for a Dubai tech-accessories brand: catalogue, cart, accounts and checkout | Laravel 12 · Filament · PHP |
 | 🎓 [**SEBA Centre for Special Needs**](https://sebaabacentre.com) | ABA therapy centre website and learning platform with online courses and student accounts | Laravel · PHP |
-| 🌐 [**Portfolio**](https://akramulhoque1320.github.io/frontend-portfolio/) | My portfolio: experience, selected work and projects | HTML · CSS · JavaScript |
+| 🌐 [**Portfolio**](https://akramulhoque1320.github.io/akh/) | My portfolio: experience, selected work and projects | HTML · CSS · JavaScript |
 
 ---
 
