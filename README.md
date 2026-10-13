@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-I'm **Akram**, a **software engineer** at **Infinity Vision** in Dhaka with **4+ years of experience** (previously Digital Hub Bangladesh and Tai Global). I design and build software end to end — system design, databases, APIs, frontends, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
+I'm **Akram**, a **full-stack software engineer** at **Infinity Vision** in Dhaka with **4+ years of experience** (previously Digital Hub Bangladesh and Tai Global). I design and build software end to end — system design, backend APIs and databases, user interfaces, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
 
 `TypeScript` · `JavaScript` · `Python` · `PHP` · `Java` · `React` · `Node.js` · `SQL & NoSQL` · `Docker` · 🌱 learning **system design**
 
