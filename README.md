@@ -24,6 +24,18 @@ I'm a **software engineer** at **Infinity Vision** in Dhaka. I design and build 
 
 ---
 
+### 🚀 Featured projects
+
+| Project | What it does | Built with |
+|---------|--------------|------------|
+| 🌐 [**Frontend Portfolio**](https://github.com/akramulhoque1320/frontend-portfolio) · [live demo](https://akramulhoque1320.github.io/frontend-portfolio/) | Responsive portfolio with dark mode, project filters and a validated contact form | HTML · CSS · JavaScript |
+| 💰 [**Python Expense Tracker**](https://github.com/akramulhoque1320/python-expense-tracker) | CLI to record expenses, see monthly summaries per category and export to CSV | Python · unittest |
+| 🛍️ [**Flask E-commerce Shop**](https://github.com/akramulhoque1320/flask-ecommerce) | Online shop with catalogue, search, cart, checkout and stock-aware orders | Python · Flask · SQLite · pytest |
+| 📚 [**Java Library Management**](https://github.com/akramulhoque1320/java-library-management) | Console system for books, members, 14-day loans, late fines and file storage | Java 17 · OOP · Collections |
+| ✍️ [**Django Blog**](https://github.com/akramulhoque1320/django-blog) | Blog with categories, search, pagination, comments and a customised admin | Python · Django 5 · SQLite |
+
+---
+
 ### 🛠️ Tech stack
 
 <p align="center">
