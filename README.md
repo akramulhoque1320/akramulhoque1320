@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a5c,50:1f75b9,100:8e2d80&height=200&section=header&text=Akramul%20Hoque%20(Ahnaf)&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=62&descSize=24&animation=fadeIn" alt="Akramul Hoque (Ahnaf)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a5c,50:1f75b9,100:8e2d80&height=200&section=header&text=Akramul%20Hoque&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=62&descSize=24&animation=fadeIn" alt="Akramul Hoque" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akh1320/"><img src="https://img.shields.io/badge/LinkedIn-akh1320-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ekramul1320@gmail.com"><img src="https://img.shields.io/badge/Email-ekramul1320%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/ekramulhoqueahnaf.info"><img src="https://img.shields.io/badge/Facebook-Ahnaf-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/ekramulhoqueahnaf.info"><img src="https://img.shields.io/badge/Facebook-Akram-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <img src="https://komarev.com/ghpvc/?username=akramulhoque1320&label=Profile%20views&color=8e2d80&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-I'm a **software engineer** at **Infinity Vision** in Dhaka. I design and build software end to end — system design, databases, APIs, frontends, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
+I'm **Akram**, a **software engineer** at **Infinity Vision** in Dhaka with **4+ years of experience** (previously Digital Hub Bangladesh and Tai Global). I design and build software end to end — system design, databases, APIs, frontends, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
 
 `TypeScript` · `JavaScript` · `Python` · `PHP` · `Java` · `React` · `Node.js` · `SQL & NoSQL` · `Docker` · 🌱 learning **system design**
 
