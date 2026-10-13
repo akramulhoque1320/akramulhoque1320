@@ -28,11 +28,10 @@ I'm **Akram**, a **software engineer** at **Infinity Vision** in Dhaka with **4+
 
 | Project | What it does | Built with |
 |---------|--------------|------------|
-| 🌐 [**Frontend Portfolio**](https://github.com/akramulhoque1320/frontend-portfolio) · [live demo](https://akramulhoque1320.github.io/frontend-portfolio/) | Responsive portfolio with dark mode, project filters and a validated contact form | HTML · CSS · JavaScript |
-| 💰 [**Python Expense Tracker**](https://github.com/akramulhoque1320/python-expense-tracker) | CLI to record expenses, see monthly summaries per category and export to CSV | Python · unittest |
-| 🛍️ [**Flask E-commerce Shop**](https://github.com/akramulhoque1320/flask-ecommerce) | Online shop with catalogue, search, cart, checkout and stock-aware orders | Python · Flask · SQLite · pytest |
-| 📚 [**Java Library Management**](https://github.com/akramulhoque1320/java-library-management) | Console system for books, members, 14-day loans, late fines and file storage | Java 17 · OOP · Collections |
-| ✍️ [**Django Blog**](https://github.com/akramulhoque1320/django-blog) | Blog with categories, search, pagination, comments and a customised admin | Python · Django 5 · SQLite |
+| 🧸 [**Wonder Kids Development Center**](https://wonderkdc.com) | Autism and child development centre site: therapy services, assessment booking, events and blog | Next.js · TypeScript · Payload CMS |
+| 🛒 [**SmartLife**](https://smartlifeorg.com) | E-commerce store for a Dubai tech-accessories brand: catalogue, cart, accounts and checkout | Laravel 12 · Filament · PHP |
+| 🎓 [**SEBA Centre for Special Needs**](https://sebaabacentre.com) | ABA therapy centre website and learning platform with online courses and student accounts | Laravel · PHP |
+| 🌐 [**Portfolio**](https://akramulhoque1320.github.io/frontend-portfolio/) | My portfolio: experience, selected work and projects | HTML · CSS · JavaScript |
 
 ---
 
