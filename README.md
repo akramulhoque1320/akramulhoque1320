@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://akramulhoque1320.github.io/akh/assets/Akramul-Hoque-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-1f75b9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume (PDF)" /></a>
   <a href="https://www.linkedin.com/in/akh1320/"><img src="https://img.shields.io/badge/LinkedIn-akh1320-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ekramul1320@gmail.com"><img src="https://img.shields.io/badge/Email-ekramul1320%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.facebook.com/ekramulhoqueahnaf.info"><img src="https://img.shields.io/badge/Facebook-Akram-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
