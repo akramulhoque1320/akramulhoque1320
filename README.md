@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=1F75B9&center=true&vCenter=true&width=460&lines=IT+Operations+Executive;Systems%2C+networks+%26+IT+support;Keeping+business+tech+running+smoothly" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=1F75B9&center=true&vCenter=true&width=460&lines=IT+Operations+Executive;IT+operations+%26+web+development;4+years+keeping+business+tech+running" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ### 👋 About me
 
-I'm **Akram**, an **IT Operations Executive** at **Dreamer Properties Limited** in Dhaka (since Dec 2022) and a **Computer Science & Engineering graduate** from Northern University Bangladesh (CGPA 3.71). I look after the company's IT infrastructure — computers, printers, networks, email and business systems — support the team with hardware, software and network issues, and maintain the website and the applications the business runs on.
+I'm **Akram**, an **IT Operations Executive** at **Dreamer Properties Limited** in Dhaka with **4 years of experience in IT operations and web development**, and a **Computer Science & Engineering** graduate from Northern University Bangladesh. I look after the company's IT infrastructure — computers, printers, networks, email and business systems — support the team with hardware, software and network issues, and build and maintain websites and web applications.
 
-`IT support` · `Windows & Linux` · `Networking (TCP/IP, DNS, DHCP)` · `Backup & recovery` · `MySQL` · `PHP` · `JavaScript` · `React` · `Python` · `Java` · 🌱 learning **cloud & system design**
+`IT support` · `Windows & Linux` · `Networking (TCP/IP, DNS, DHCP)` · `Backup & recovery` · `Web development` · `MySQL` · `PHP` · `JavaScript` · `React` · `Python` · `Java` · 🌱 learning **cloud & system design**
 
 ---
 
