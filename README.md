@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a5c,50:1f75b9,100:8e2d80&height=200&section=header&text=Akramul%20Hoque&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=62&descSize=24&animation=fadeIn" alt="Akramul Hoque" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a5c,50:1f75b9,100:8e2d80&height=200&section=header&text=Akramul%20Hoque&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=IT%20Operations%20Executive%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descAlignY=62&descSize=24&animation=fadeIn" alt="Akramul Hoque" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=1F75B9&center=true&vCenter=true&width=460&lines=Software+Engineer;I+design%2C+build+%26+ship+reliable+software;From+system+design+to+production+deploys" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=1F75B9&center=true&vCenter=true&width=460&lines=IT+Operations+Executive;Systems%2C+networks+%26+IT+support;Keeping+business+tech+running+smoothly" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ### 👋 About me
 
-I'm **Akram**, a **full-stack software engineer** at **Infinity Vision** in Dhaka with **4+ years of experience** (previously Digital Hub Bangladesh and Tai Global). I design and build software end to end — system design, backend APIs and databases, user interfaces, testing and deployment — with a focus on **performance, security and clean, maintainable code**.
+I'm **Akram**, an **IT Operations Executive** at **Dreamer Properties Limited** in Dhaka (since Dec 2022) and a **Computer Science & Engineering graduate** from Northern University Bangladesh (CGPA 3.71). I look after the company's IT infrastructure — computers, printers, networks, email and business systems — support the team with hardware, software and network issues, and maintain the website and the applications the business runs on.
 
-`TypeScript` · `JavaScript` · `Python` · `PHP` · `Java` · `React` · `Node.js` · `SQL & NoSQL` · `Docker` · 🌱 learning **system design**
+`IT support` · `Windows & Linux` · `Networking (TCP/IP, DNS, DHCP)` · `Backup & recovery` · `MySQL` · `PHP` · `JavaScript` · `React` · `Python` · `Java` · 🌱 learning **cloud & system design**
 
 ---
 
