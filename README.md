@@ -25,17 +25,6 @@ I'm **Akram**, an **IT Operations Executive** at **Dreamer Properties Limited** 
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it does | Built with |
-|---------|--------------|------------|
-| 🧸 [**Wonder Kids Development Center**](https://wonderkdc.com) | Autism and child development centre site: therapy services, assessment booking, events and blog | Next.js · TypeScript · Payload CMS |
-| 🛒 [**SmartLife**](https://smartlifeorg.com) | E-commerce store for a tech-accessories brand in **Dubai, UAE** 🇦🇪: catalogue, cart, accounts and checkout | Laravel 12 · Filament · PHP |
-| 🎓 [**SEBA Centre for Special Needs**](https://sebaabacentre.com) | ABA therapy centre website and learning platform with online courses and student accounts | Laravel · PHP |
-| 🌐 [**Portfolio**](https://akramulhoque1320.github.io/akh/) | My portfolio: experience, selected work and projects | HTML · CSS · JavaScript |
-
----
-
 ### 🛠️ Tech stack
 
 <p align="center">
